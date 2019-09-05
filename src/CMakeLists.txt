@@ -1,5 +1,3 @@
-endif()
-
 rock_library(
     base-types 
         Angle.cpp
